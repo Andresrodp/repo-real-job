@@ -1,4 +1,7 @@
-## Getting Started
+### Requisitos Previos
+
+- Node.js (versión 18 o superior)
+- npm, yarn, pnpm o bun (uno de estos gestores de paquetes)
 
 ### Instalar dependencias
 
