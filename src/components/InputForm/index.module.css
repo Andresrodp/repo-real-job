@@ -1,0 +1,13 @@
+.borderGradient:focus {
+  border: 2px solid;
+  border-image: linear-gradient(
+      to left,
+      #f81918,
+      #ffb0a0,
+      #f81c1a,
+      #660000,
+      #e00001
+    )
+    1;
+  border-radius: 10px;
+}

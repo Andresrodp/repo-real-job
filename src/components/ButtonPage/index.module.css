@@ -1,0 +1,25 @@
+.buttonGradient {
+  border: 3px solid;
+  border-image: linear-gradient(
+      to left,
+      #f81918,
+      #ffb0a0,
+      #f81c1a,
+      #660000,
+      #e00001
+    )
+    1;
+}
+
+.buttonGradientDisabled {
+  border: 3px solid;
+  border-image: linear-gradient(
+      to left,
+      #535353,
+      #ededed,
+      #808080,
+      #434343,
+      #e3e3e3
+    )
+    1;
+}

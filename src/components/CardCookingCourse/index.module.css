@@ -1,0 +1,12 @@
+.cardBorderGradient {
+  border: 1px solid;
+  border-image: linear-gradient(
+      to left,
+      #f81918,
+      #ffb0a0,
+      #f81c1a,
+      #660000,
+      #e00001
+    )
+    1;
+}

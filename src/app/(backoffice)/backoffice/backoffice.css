@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+td, th {
+    border: 1px solid #c0c0c0;
+    padding: 10px;
+}
+
+thead th {
+    background-color: #f2f2f2;
+}
